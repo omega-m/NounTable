@@ -7,6 +7,21 @@ using nt.inner;
 namespace nt {
 
     /// <summary>ひらがなから名詞データを取得する為のクラス</summary>
+    /// namespace nt;
+    /// 
+    /// NounTable table = GetComponent&lt;NounTable&gt;();
+    /// 
+    /// //ひらがなに対応する名詞データがあるかチェック及び取得
+    /// NounRecord rec;
+    /// if (nounDic.TryGetRecord("さんま", out rec)) {
+    ///     Debug.Log(rec.Hiragana + " " + rec.Original + "" + rec.Kind);
+    /// }
+    /// if (nounDic.TryGetRecord("かいだん", out rec)) {
+    ///     Debug.Log(rec.Hiragana + " " + rec.Original + "" + rec.Kind);
+    /// }
+    /// if (nounDic.TryGetRecord("ふあうち", out rec)) {
+    ///     Debug.Log(rec.Hiragana + " " + rec.Original + "" + rec.Kind);
+    /// }
     public class NounTable : MonoBehaviour {
 
 

@@ -1,0 +1,546 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: nt
+  name: nt
+  href: api/nt.html
+  commentId: N:nt
+  fullName: nt
+  nameWithType: nt
+- uid: nt.inner
+  name: nt.inner
+  href: api/nt.inner.html
+  commentId: N:nt.inner
+  fullName: nt.inner
+  nameWithType: nt.inner
+- uid: nt.inner.CsvReadHelper
+  name: CsvReadHelper
+  href: api/nt.inner.CsvReadHelper.html
+  commentId: T:nt.inner.CsvReadHelper
+  fullName: nt.inner.CsvReadHelper
+  nameWithType: CsvReadHelper
+- uid: nt.inner.CsvReadHelper.#ctor(System.String)
+  name: CsvReadHelper(String)
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper__ctor_System_String_
+  commentId: M:nt.inner.CsvReadHelper.#ctor(System.String)
+  fullName: nt.inner.CsvReadHelper.CsvReadHelper(System.String)
+  nameWithType: CsvReadHelper.CsvReadHelper(String)
+- uid: nt.inner.CsvReadHelper.#ctor(UnityEngine.TextAsset@)
+  name: CsvReadHelper(in TextAsset)
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper__ctor_UnityEngine_TextAsset__
+  commentId: M:nt.inner.CsvReadHelper.#ctor(UnityEngine.TextAsset@)
+  name.vb: CsvReadHelper(ByRef TextAsset)
+  fullName: nt.inner.CsvReadHelper.CsvReadHelper(in UnityEngine.TextAsset)
+  fullName.vb: nt.inner.CsvReadHelper.CsvReadHelper(ByRef UnityEngine.TextAsset)
+  nameWithType: CsvReadHelper.CsvReadHelper(in TextAsset)
+  nameWithType.vb: CsvReadHelper.CsvReadHelper(ByRef TextAsset)
+- uid: nt.inner.CsvReadHelper.#ctor*
+  name: CsvReadHelper
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper__ctor_
+  commentId: Overload:nt.inner.CsvReadHelper.#ctor
+  isSpec: "True"
+  fullName: nt.inner.CsvReadHelper.CsvReadHelper
+  nameWithType: CsvReadHelper.CsvReadHelper
+- uid: nt.inner.CsvReadHelper.Datas
+  name: Datas
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper_Datas
+  commentId: P:nt.inner.CsvReadHelper.Datas
+  fullName: nt.inner.CsvReadHelper.Datas
+  nameWithType: CsvReadHelper.Datas
+- uid: nt.inner.CsvReadHelper.Datas*
+  name: Datas
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper_Datas_
+  commentId: Overload:nt.inner.CsvReadHelper.Datas
+  isSpec: "True"
+  fullName: nt.inner.CsvReadHelper.Datas
+  nameWithType: CsvReadHelper.Datas
+- uid: nt.inner.CsvReadHelper.FieldMax
+  name: FieldMax
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper_FieldMax
+  commentId: P:nt.inner.CsvReadHelper.FieldMax
+  fullName: nt.inner.CsvReadHelper.FieldMax
+  nameWithType: CsvReadHelper.FieldMax
+- uid: nt.inner.CsvReadHelper.FieldMax*
+  name: FieldMax
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper_FieldMax_
+  commentId: Overload:nt.inner.CsvReadHelper.FieldMax
+  isSpec: "True"
+  fullName: nt.inner.CsvReadHelper.FieldMax
+  nameWithType: CsvReadHelper.FieldMax
+- uid: nt.inner.CsvReadHelper.Load(System.String)
+  name: Load(String)
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper_Load_System_String_
+  commentId: M:nt.inner.CsvReadHelper.Load(System.String)
+  fullName: nt.inner.CsvReadHelper.Load(System.String)
+  nameWithType: CsvReadHelper.Load(String)
+- uid: nt.inner.CsvReadHelper.Load(UnityEngine.TextAsset@)
+  name: Load(in TextAsset)
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper_Load_UnityEngine_TextAsset__
+  commentId: M:nt.inner.CsvReadHelper.Load(UnityEngine.TextAsset@)
+  name.vb: Load(ByRef TextAsset)
+  fullName: nt.inner.CsvReadHelper.Load(in UnityEngine.TextAsset)
+  fullName.vb: nt.inner.CsvReadHelper.Load(ByRef UnityEngine.TextAsset)
+  nameWithType: CsvReadHelper.Load(in TextAsset)
+  nameWithType.vb: CsvReadHelper.Load(ByRef TextAsset)
+- uid: nt.inner.CsvReadHelper.Load*
+  name: Load
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper_Load_
+  commentId: Overload:nt.inner.CsvReadHelper.Load
+  isSpec: "True"
+  fullName: nt.inner.CsvReadHelper.Load
+  nameWithType: CsvReadHelper.Load
+- uid: nt.inner.CsvReadHelper.RecordNum
+  name: RecordNum
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper_RecordNum
+  commentId: P:nt.inner.CsvReadHelper.RecordNum
+  fullName: nt.inner.CsvReadHelper.RecordNum
+  nameWithType: CsvReadHelper.RecordNum
+- uid: nt.inner.CsvReadHelper.RecordNum*
+  name: RecordNum
+  href: api/nt.inner.CsvReadHelper.html#nt_inner_CsvReadHelper_RecordNum_
+  commentId: Overload:nt.inner.CsvReadHelper.RecordNum
+  isSpec: "True"
+  fullName: nt.inner.CsvReadHelper.RecordNum
+  nameWithType: CsvReadHelper.RecordNum
+- uid: nt.inner.NounDic
+  name: NounDic
+  href: api/nt.inner.NounDic.html
+  commentId: T:nt.inner.NounDic
+  fullName: nt.inner.NounDic
+  nameWithType: NounDic
+- uid: nt.inner.NounDic.#ctor(System.Int32,System.Int32)
+  name: NounDic(Int32, Int32)
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic__ctor_System_Int32_System_Int32_
+  commentId: M:nt.inner.NounDic.#ctor(System.Int32,System.Int32)
+  fullName: nt.inner.NounDic.NounDic(System.Int32, System.Int32)
+  nameWithType: NounDic.NounDic(Int32, Int32)
+- uid: nt.inner.NounDic.#ctor(UnityEngine.TextAsset,System.Int32,System.Int32)
+  name: NounDic(TextAsset, Int32, Int32)
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic__ctor_UnityEngine_TextAsset_System_Int32_System_Int32_
+  commentId: M:nt.inner.NounDic.#ctor(UnityEngine.TextAsset,System.Int32,System.Int32)
+  fullName: nt.inner.NounDic.NounDic(UnityEngine.TextAsset, System.Int32, System.Int32)
+  nameWithType: NounDic.NounDic(TextAsset, Int32, Int32)
+- uid: nt.inner.NounDic.#ctor*
+  name: NounDic
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic__ctor_
+  commentId: Overload:nt.inner.NounDic.#ctor
+  isSpec: "True"
+  fullName: nt.inner.NounDic.NounDic
+  nameWithType: NounDic.NounDic
+- uid: nt.inner.NounDic.AddRecord(nt.NounRecord)
+  name: AddRecord(NounRecord)
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_AddRecord_nt_NounRecord_
+  commentId: M:nt.inner.NounDic.AddRecord(nt.NounRecord)
+  fullName: nt.inner.NounDic.AddRecord(nt.NounRecord)
+  nameWithType: NounDic.AddRecord(NounRecord)
+- uid: nt.inner.NounDic.AddRecord*
+  name: AddRecord
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_AddRecord_
+  commentId: Overload:nt.inner.NounDic.AddRecord
+  isSpec: "True"
+  fullName: nt.inner.NounDic.AddRecord
+  nameWithType: NounDic.AddRecord
+- uid: nt.inner.NounDic.HiraganaMaxLength
+  name: HiraganaMaxLength
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_HiraganaMaxLength
+  commentId: P:nt.inner.NounDic.HiraganaMaxLength
+  fullName: nt.inner.NounDic.HiraganaMaxLength
+  nameWithType: NounDic.HiraganaMaxLength
+- uid: nt.inner.NounDic.HiraganaMaxLength*
+  name: HiraganaMaxLength
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_HiraganaMaxLength_
+  commentId: Overload:nt.inner.NounDic.HiraganaMaxLength
+  isSpec: "True"
+  fullName: nt.inner.NounDic.HiraganaMaxLength
+  nameWithType: NounDic.HiraganaMaxLength
+- uid: nt.inner.NounDic.HiraganaMinLength
+  name: HiraganaMinLength
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_HiraganaMinLength
+  commentId: P:nt.inner.NounDic.HiraganaMinLength
+  fullName: nt.inner.NounDic.HiraganaMinLength
+  nameWithType: NounDic.HiraganaMinLength
+- uid: nt.inner.NounDic.HiraganaMinLength*
+  name: HiraganaMinLength
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_HiraganaMinLength_
+  commentId: Overload:nt.inner.NounDic.HiraganaMinLength
+  isSpec: "True"
+  fullName: nt.inner.NounDic.HiraganaMinLength
+  nameWithType: NounDic.HiraganaMinLength
+- uid: nt.inner.NounDic.SaveTo(System.String)
+  name: SaveTo(String)
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_SaveTo_System_String_
+  commentId: M:nt.inner.NounDic.SaveTo(System.String)
+  fullName: nt.inner.NounDic.SaveTo(System.String)
+  nameWithType: NounDic.SaveTo(String)
+- uid: nt.inner.NounDic.SaveTo*
+  name: SaveTo
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_SaveTo_
+  commentId: Overload:nt.inner.NounDic.SaveTo
+  isSpec: "True"
+  fullName: nt.inner.NounDic.SaveTo
+  nameWithType: NounDic.SaveTo
+- uid: nt.inner.NounDic.TryGetRecord(System.String,nt.NounRecord@)
+  name: TryGetRecord(String, out NounRecord)
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_TryGetRecord_System_String_nt_NounRecord__
+  commentId: M:nt.inner.NounDic.TryGetRecord(System.String,nt.NounRecord@)
+  name.vb: TryGetRecord(String, ByRef NounRecord)
+  fullName: nt.inner.NounDic.TryGetRecord(System.String, out nt.NounRecord)
+  fullName.vb: nt.inner.NounDic.TryGetRecord(System.String, ByRef nt.NounRecord)
+  nameWithType: NounDic.TryGetRecord(String, out NounRecord)
+  nameWithType.vb: NounDic.TryGetRecord(String, ByRef NounRecord)
+- uid: nt.inner.NounDic.TryGetRecord*
+  name: TryGetRecord
+  href: api/nt.inner.NounDic.html#nt_inner_NounDic_TryGetRecord_
+  commentId: Overload:nt.inner.NounDic.TryGetRecord
+  isSpec: "True"
+  fullName: nt.inner.NounDic.TryGetRecord
+  nameWithType: NounDic.TryGetRecord
+- uid: nt.inner.NounDicGenerator
+  name: NounDicGenerator
+  href: api/nt.inner.NounDicGenerator.html
+  commentId: T:nt.inner.NounDicGenerator
+  fullName: nt.inner.NounDicGenerator
+  nameWithType: NounDicGenerator
+- uid: nt.inner.Util
+  name: Util
+  href: api/nt.inner.Util.html
+  commentId: T:nt.inner.Util
+  fullName: nt.inner.Util
+  nameWithType: Util
+- uid: nt.inner.Util.ConvertTypes
+  name: Util.ConvertTypes
+  href: api/nt.inner.Util.ConvertTypes.html
+  commentId: T:nt.inner.Util.ConvertTypes
+  fullName: nt.inner.Util.ConvertTypes
+  nameWithType: Util.ConvertTypes
+- uid: nt.inner.Util.ConvertTypes.All
+  name: All
+  href: api/nt.inner.Util.ConvertTypes.html#nt_inner_Util_ConvertTypes_All
+  commentId: F:nt.inner.Util.ConvertTypes.All
+  fullName: nt.inner.Util.ConvertTypes.All
+  nameWithType: Util.ConvertTypes.All
+- uid: nt.inner.Util.ConvertTypes.Alphabet
+  name: Alphabet
+  href: api/nt.inner.Util.ConvertTypes.html#nt_inner_Util_ConvertTypes_Alphabet
+  commentId: F:nt.inner.Util.ConvertTypes.Alphabet
+  fullName: nt.inner.Util.ConvertTypes.Alphabet
+  nameWithType: Util.ConvertTypes.Alphabet
+- uid: nt.inner.Util.ConvertTypes.Katakana
+  name: Katakana
+  href: api/nt.inner.Util.ConvertTypes.html#nt_inner_Util_ConvertTypes_Katakana
+  commentId: F:nt.inner.Util.ConvertTypes.Katakana
+  fullName: nt.inner.Util.ConvertTypes.Katakana
+  nameWithType: Util.ConvertTypes.Katakana
+- uid: nt.inner.Util.ConvertTypes.Number
+  name: Number
+  href: api/nt.inner.Util.ConvertTypes.html#nt_inner_Util_ConvertTypes_Number
+  commentId: F:nt.inner.Util.ConvertTypes.Number
+  fullName: nt.inner.Util.ConvertTypes.Number
+  nameWithType: Util.ConvertTypes.Number
+- uid: nt.inner.Util.ConvertTypes.Space
+  name: Space
+  href: api/nt.inner.Util.ConvertTypes.html#nt_inner_Util_ConvertTypes_Space
+  commentId: F:nt.inner.Util.ConvertTypes.Space
+  fullName: nt.inner.Util.ConvertTypes.Space
+  nameWithType: Util.ConvertTypes.Space
+- uid: nt.inner.Util.ConvertTypes.Symbol
+  name: Symbol
+  href: api/nt.inner.Util.ConvertTypes.html#nt_inner_Util_ConvertTypes_Symbol
+  commentId: F:nt.inner.Util.ConvertTypes.Symbol
+  fullName: nt.inner.Util.ConvertTypes.Symbol
+  nameWithType: Util.ConvertTypes.Symbol
+- uid: nt.inner.Util.HanToZen(System.String,nt.inner.Util.ConvertTypes)
+  name: HanToZen(String, Util.ConvertTypes)
+  href: api/nt.inner.Util.html#nt_inner_Util_HanToZen_System_String_nt_inner_Util_ConvertTypes_
+  commentId: M:nt.inner.Util.HanToZen(System.String,nt.inner.Util.ConvertTypes)
+  fullName: nt.inner.Util.HanToZen(System.String, nt.inner.Util.ConvertTypes)
+  nameWithType: Util.HanToZen(String, Util.ConvertTypes)
+- uid: nt.inner.Util.HanToZen*
+  name: HanToZen
+  href: api/nt.inner.Util.html#nt_inner_Util_HanToZen_
+  commentId: Overload:nt.inner.Util.HanToZen
+  isSpec: "True"
+  fullName: nt.inner.Util.HanToZen
+  nameWithType: Util.HanToZen
+- uid: nt.inner.Util.HanToZenAlNum(System.String)
+  name: HanToZenAlNum(String)
+  href: api/nt.inner.Util.html#nt_inner_Util_HanToZenAlNum_System_String_
+  commentId: M:nt.inner.Util.HanToZenAlNum(System.String)
+  fullName: nt.inner.Util.HanToZenAlNum(System.String)
+  nameWithType: Util.HanToZenAlNum(String)
+- uid: nt.inner.Util.HanToZenAlNum*
+  name: HanToZenAlNum
+  href: api/nt.inner.Util.html#nt_inner_Util_HanToZenAlNum_
+  commentId: Overload:nt.inner.Util.HanToZenAlNum
+  isSpec: "True"
+  fullName: nt.inner.Util.HanToZenAlNum
+  nameWithType: Util.HanToZenAlNum
+- uid: nt.inner.Util.HanToZenAlpha(System.String)
+  name: HanToZenAlpha(String)
+  href: api/nt.inner.Util.html#nt_inner_Util_HanToZenAlpha_System_String_
+  commentId: M:nt.inner.Util.HanToZenAlpha(System.String)
+  fullName: nt.inner.Util.HanToZenAlpha(System.String)
+  nameWithType: Util.HanToZenAlpha(String)
+- uid: nt.inner.Util.HanToZenAlpha*
+  name: HanToZenAlpha
+  href: api/nt.inner.Util.html#nt_inner_Util_HanToZenAlpha_
+  commentId: Overload:nt.inner.Util.HanToZenAlpha
+  isSpec: "True"
+  fullName: nt.inner.Util.HanToZenAlpha
+  nameWithType: Util.HanToZenAlpha
+- uid: nt.inner.Util.HanToZenNum(System.String)
+  name: HanToZenNum(String)
+  href: api/nt.inner.Util.html#nt_inner_Util_HanToZenNum_System_String_
+  commentId: M:nt.inner.Util.HanToZenNum(System.String)
+  fullName: nt.inner.Util.HanToZenNum(System.String)
+  nameWithType: Util.HanToZenNum(String)
+- uid: nt.inner.Util.HanToZenNum*
+  name: HanToZenNum
+  href: api/nt.inner.Util.html#nt_inner_Util_HanToZenNum_
+  commentId: Overload:nt.inner.Util.HanToZenNum
+  isSpec: "True"
+  fullName: nt.inner.Util.HanToZenNum
+  nameWithType: Util.HanToZenNum
+- uid: nt.inner.Util.IsAlpha(System.Char)
+  name: IsAlpha(Char)
+  href: api/nt.inner.Util.html#nt_inner_Util_IsAlpha_System_Char_
+  commentId: M:nt.inner.Util.IsAlpha(System.Char)
+  fullName: nt.inner.Util.IsAlpha(System.Char)
+  nameWithType: Util.IsAlpha(Char)
+- uid: nt.inner.Util.IsAlpha*
+  name: IsAlpha
+  href: api/nt.inner.Util.html#nt_inner_Util_IsAlpha_
+  commentId: Overload:nt.inner.Util.IsAlpha
+  isSpec: "True"
+  fullName: nt.inner.Util.IsAlpha
+  nameWithType: Util.IsAlpha
+- uid: nt.inner.Util.IsCapsLockOn
+  name: IsCapsLockOn
+  href: api/nt.inner.Util.html#nt_inner_Util_IsCapsLockOn
+  commentId: P:nt.inner.Util.IsCapsLockOn
+  fullName: nt.inner.Util.IsCapsLockOn
+  nameWithType: Util.IsCapsLockOn
+- uid: nt.inner.Util.IsCapsLockOn*
+  name: IsCapsLockOn
+  href: api/nt.inner.Util.html#nt_inner_Util_IsCapsLockOn_
+  commentId: Overload:nt.inner.Util.IsCapsLockOn
+  isSpec: "True"
+  fullName: nt.inner.Util.IsCapsLockOn
+  nameWithType: Util.IsCapsLockOn
+- uid: nt.inner.Util.IsHiragana(System.Char)
+  name: IsHiragana(Char)
+  href: api/nt.inner.Util.html#nt_inner_Util_IsHiragana_System_Char_
+  commentId: M:nt.inner.Util.IsHiragana(System.Char)
+  fullName: nt.inner.Util.IsHiragana(System.Char)
+  nameWithType: Util.IsHiragana(Char)
+- uid: nt.inner.Util.IsHiragana*
+  name: IsHiragana
+  href: api/nt.inner.Util.html#nt_inner_Util_IsHiragana_
+  commentId: Overload:nt.inner.Util.IsHiragana
+  isSpec: "True"
+  fullName: nt.inner.Util.IsHiragana
+  nameWithType: Util.IsHiragana
+- uid: nt.inner.Util.IsJPSymbol(System.Char)
+  name: IsJPSymbol(Char)
+  href: api/nt.inner.Util.html#nt_inner_Util_IsJPSymbol_System_Char_
+  commentId: M:nt.inner.Util.IsJPSymbol(System.Char)
+  fullName: nt.inner.Util.IsJPSymbol(System.Char)
+  nameWithType: Util.IsJPSymbol(Char)
+- uid: nt.inner.Util.IsJPSymbol*
+  name: IsJPSymbol
+  href: api/nt.inner.Util.html#nt_inner_Util_IsJPSymbol_
+  commentId: Overload:nt.inner.Util.IsJPSymbol
+  isSpec: "True"
+  fullName: nt.inner.Util.IsJPSymbol
+  nameWithType: Util.IsJPSymbol
+- uid: nt.inner.Util.IsSpace(System.Char)
+  name: IsSpace(Char)
+  href: api/nt.inner.Util.html#nt_inner_Util_IsSpace_System_Char_
+  commentId: M:nt.inner.Util.IsSpace(System.Char)
+  fullName: nt.inner.Util.IsSpace(System.Char)
+  nameWithType: Util.IsSpace(Char)
+- uid: nt.inner.Util.IsSpace*
+  name: IsSpace
+  href: api/nt.inner.Util.html#nt_inner_Util_IsSpace_
+  commentId: Overload:nt.inner.Util.IsSpace
+  isSpec: "True"
+  fullName: nt.inner.Util.IsSpace
+  nameWithType: Util.IsSpace
+- uid: nt.inner.Util.IsSymbol(System.Char,System.Boolean)
+  name: IsSymbol(Char, Boolean)
+  href: api/nt.inner.Util.html#nt_inner_Util_IsSymbol_System_Char_System_Boolean_
+  commentId: M:nt.inner.Util.IsSymbol(System.Char,System.Boolean)
+  fullName: nt.inner.Util.IsSymbol(System.Char, System.Boolean)
+  nameWithType: Util.IsSymbol(Char, Boolean)
+- uid: nt.inner.Util.IsSymbol*
+  name: IsSymbol
+  href: api/nt.inner.Util.html#nt_inner_Util_IsSymbol_
+  commentId: Overload:nt.inner.Util.IsSymbol
+  isSpec: "True"
+  fullName: nt.inner.Util.IsSymbol
+  nameWithType: Util.IsSymbol
+- uid: nt.inner.Util.KatakanaToHiragana(System.String)
+  name: KatakanaToHiragana(String)
+  href: api/nt.inner.Util.html#nt_inner_Util_KatakanaToHiragana_System_String_
+  commentId: M:nt.inner.Util.KatakanaToHiragana(System.String)
+  fullName: nt.inner.Util.KatakanaToHiragana(System.String)
+  nameWithType: Util.KatakanaToHiragana(String)
+- uid: nt.inner.Util.KatakanaToHiragana*
+  name: KatakanaToHiragana
+  href: api/nt.inner.Util.html#nt_inner_Util_KatakanaToHiragana_
+  commentId: Overload:nt.inner.Util.KatakanaToHiragana
+  isSpec: "True"
+  fullName: nt.inner.Util.KatakanaToHiragana
+  nameWithType: Util.KatakanaToHiragana
+- uid: nt.inner.Util.TryHanToZen(System.String,System.String@,nt.inner.Util.ConvertTypes)
+  name: TryHanToZen(String, out String, Util.ConvertTypes)
+  href: api/nt.inner.Util.html#nt_inner_Util_TryHanToZen_System_String_System_String__nt_inner_Util_ConvertTypes_
+  commentId: M:nt.inner.Util.TryHanToZen(System.String,System.String@,nt.inner.Util.ConvertTypes)
+  name.vb: TryHanToZen(String, ByRef String, Util.ConvertTypes)
+  fullName: nt.inner.Util.TryHanToZen(System.String, out System.String, nt.inner.Util.ConvertTypes)
+  fullName.vb: nt.inner.Util.TryHanToZen(System.String, ByRef System.String, nt.inner.Util.ConvertTypes)
+  nameWithType: Util.TryHanToZen(String, out String, Util.ConvertTypes)
+  nameWithType.vb: Util.TryHanToZen(String, ByRef String, Util.ConvertTypes)
+- uid: nt.inner.Util.TryHanToZen*
+  name: TryHanToZen
+  href: api/nt.inner.Util.html#nt_inner_Util_TryHanToZen_
+  commentId: Overload:nt.inner.Util.TryHanToZen
+  isSpec: "True"
+  fullName: nt.inner.Util.TryHanToZen
+  nameWithType: Util.TryHanToZen
+- uid: nt.inner.Util.TryZenToHan(System.String,System.String@,nt.inner.Util.ConvertTypes)
+  name: TryZenToHan(String, out String, Util.ConvertTypes)
+  href: api/nt.inner.Util.html#nt_inner_Util_TryZenToHan_System_String_System_String__nt_inner_Util_ConvertTypes_
+  commentId: M:nt.inner.Util.TryZenToHan(System.String,System.String@,nt.inner.Util.ConvertTypes)
+  name.vb: TryZenToHan(String, ByRef String, Util.ConvertTypes)
+  fullName: nt.inner.Util.TryZenToHan(System.String, out System.String, nt.inner.Util.ConvertTypes)
+  fullName.vb: nt.inner.Util.TryZenToHan(System.String, ByRef System.String, nt.inner.Util.ConvertTypes)
+  nameWithType: Util.TryZenToHan(String, out String, Util.ConvertTypes)
+  nameWithType.vb: Util.TryZenToHan(String, ByRef String, Util.ConvertTypes)
+- uid: nt.inner.Util.TryZenToHan*
+  name: TryZenToHan
+  href: api/nt.inner.Util.html#nt_inner_Util_TryZenToHan_
+  commentId: Overload:nt.inner.Util.TryZenToHan
+  isSpec: "True"
+  fullName: nt.inner.Util.TryZenToHan
+  nameWithType: Util.TryZenToHan
+- uid: nt.inner.Util.ZenToHan(System.String,nt.inner.Util.ConvertTypes)
+  name: ZenToHan(String, Util.ConvertTypes)
+  href: api/nt.inner.Util.html#nt_inner_Util_ZenToHan_System_String_nt_inner_Util_ConvertTypes_
+  commentId: M:nt.inner.Util.ZenToHan(System.String,nt.inner.Util.ConvertTypes)
+  fullName: nt.inner.Util.ZenToHan(System.String, nt.inner.Util.ConvertTypes)
+  nameWithType: Util.ZenToHan(String, Util.ConvertTypes)
+- uid: nt.inner.Util.ZenToHan*
+  name: ZenToHan
+  href: api/nt.inner.Util.html#nt_inner_Util_ZenToHan_
+  commentId: Overload:nt.inner.Util.ZenToHan
+  isSpec: "True"
+  fullName: nt.inner.Util.ZenToHan
+  nameWithType: Util.ZenToHan
+- uid: nt.inner.Util.ZenToHanAlNum(System.String)
+  name: ZenToHanAlNum(String)
+  href: api/nt.inner.Util.html#nt_inner_Util_ZenToHanAlNum_System_String_
+  commentId: M:nt.inner.Util.ZenToHanAlNum(System.String)
+  fullName: nt.inner.Util.ZenToHanAlNum(System.String)
+  nameWithType: Util.ZenToHanAlNum(String)
+- uid: nt.inner.Util.ZenToHanAlNum*
+  name: ZenToHanAlNum
+  href: api/nt.inner.Util.html#nt_inner_Util_ZenToHanAlNum_
+  commentId: Overload:nt.inner.Util.ZenToHanAlNum
+  isSpec: "True"
+  fullName: nt.inner.Util.ZenToHanAlNum
+  nameWithType: Util.ZenToHanAlNum
+- uid: nt.inner.Util.ZenToHanAlpha(System.String)
+  name: ZenToHanAlpha(String)
+  href: api/nt.inner.Util.html#nt_inner_Util_ZenToHanAlpha_System_String_
+  commentId: M:nt.inner.Util.ZenToHanAlpha(System.String)
+  fullName: nt.inner.Util.ZenToHanAlpha(System.String)
+  nameWithType: Util.ZenToHanAlpha(String)
+- uid: nt.inner.Util.ZenToHanAlpha*
+  name: ZenToHanAlpha
+  href: api/nt.inner.Util.html#nt_inner_Util_ZenToHanAlpha_
+  commentId: Overload:nt.inner.Util.ZenToHanAlpha
+  isSpec: "True"
+  fullName: nt.inner.Util.ZenToHanAlpha
+  nameWithType: Util.ZenToHanAlpha
+- uid: nt.inner.Util.ZenToHanNum(System.String)
+  name: ZenToHanNum(String)
+  href: api/nt.inner.Util.html#nt_inner_Util_ZenToHanNum_System_String_
+  commentId: M:nt.inner.Util.ZenToHanNum(System.String)
+  fullName: nt.inner.Util.ZenToHanNum(System.String)
+  nameWithType: Util.ZenToHanNum(String)
+- uid: nt.inner.Util.ZenToHanNum*
+  name: ZenToHanNum
+  href: api/nt.inner.Util.html#nt_inner_Util_ZenToHanNum_
+  commentId: Overload:nt.inner.Util.ZenToHanNum
+  isSpec: "True"
+  fullName: nt.inner.Util.ZenToHanNum
+  nameWithType: Util.ZenToHanNum
+- uid: nt.NounRecord
+  name: NounRecord
+  href: api/nt.NounRecord.html
+  commentId: T:nt.NounRecord
+  fullName: nt.NounRecord
+  nameWithType: NounRecord
+- uid: nt.NounRecord.#ctor(nt.NounRecord@)
+  name: NounRecord(in NounRecord)
+  href: api/nt.NounRecord.html#nt_NounRecord__ctor_nt_NounRecord__
+  commentId: M:nt.NounRecord.#ctor(nt.NounRecord@)
+  name.vb: NounRecord(ByRef NounRecord)
+  fullName: nt.NounRecord.NounRecord(in nt.NounRecord)
+  fullName.vb: nt.NounRecord.NounRecord(ByRef nt.NounRecord)
+  nameWithType: NounRecord.NounRecord(in NounRecord)
+  nameWithType.vb: NounRecord.NounRecord(ByRef NounRecord)
+- uid: nt.NounRecord.#ctor(System.String,System.String,System.String)
+  name: NounRecord(String, String, String)
+  href: api/nt.NounRecord.html#nt_NounRecord__ctor_System_String_System_String_System_String_
+  commentId: M:nt.NounRecord.#ctor(System.String,System.String,System.String)
+  fullName: nt.NounRecord.NounRecord(System.String, System.String, System.String)
+  nameWithType: NounRecord.NounRecord(String, String, String)
+- uid: nt.NounRecord.#ctor*
+  name: NounRecord
+  href: api/nt.NounRecord.html#nt_NounRecord__ctor_
+  commentId: Overload:nt.NounRecord.#ctor
+  isSpec: "True"
+  fullName: nt.NounRecord.NounRecord
+  nameWithType: NounRecord.NounRecord
+- uid: nt.NounRecord.Hiragana
+  name: Hiragana
+  href: api/nt.NounRecord.html#nt_NounRecord_Hiragana
+  commentId: F:nt.NounRecord.Hiragana
+  fullName: nt.NounRecord.Hiragana
+  nameWithType: NounRecord.Hiragana
+- uid: nt.NounRecord.Kind
+  name: Kind
+  href: api/nt.NounRecord.html#nt_NounRecord_Kind
+  commentId: F:nt.NounRecord.Kind
+  fullName: nt.NounRecord.Kind
+  nameWithType: NounRecord.Kind
+- uid: nt.NounRecord.Original
+  name: Original
+  href: api/nt.NounRecord.html#nt_NounRecord_Original
+  commentId: F:nt.NounRecord.Original
+  fullName: nt.NounRecord.Original
+  nameWithType: NounRecord.Original
+- uid: nt.NounTable
+  name: NounTable
+  href: api/nt.NounTable.html
+  commentId: T:nt.NounTable
+  fullName: nt.NounTable
+  nameWithType: NounTable
+- uid: nt.NounTable.TryGetRecord(System.String,nt.NounRecord@)
+  name: TryGetRecord(String, out NounRecord)
+  href: api/nt.NounTable.html#nt_NounTable_TryGetRecord_System_String_nt_NounRecord__
+  commentId: M:nt.NounTable.TryGetRecord(System.String,nt.NounRecord@)
+  name.vb: TryGetRecord(String, ByRef NounRecord)
+  fullName: nt.NounTable.TryGetRecord(System.String, out nt.NounRecord)
+  fullName.vb: nt.NounTable.TryGetRecord(System.String, ByRef nt.NounRecord)
+  nameWithType: NounTable.TryGetRecord(String, out NounRecord)
+  nameWithType.vb: NounTable.TryGetRecord(String, ByRef NounRecord)
+- uid: nt.NounTable.TryGetRecord*
+  name: TryGetRecord
+  href: api/nt.NounTable.html#nt_NounTable_TryGetRecord_
+  commentId: Overload:nt.NounTable.TryGetRecord
+  isSpec: "True"
+  fullName: nt.NounTable.TryGetRecord
+  nameWithType: NounTable.TryGetRecord
